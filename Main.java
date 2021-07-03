@@ -1,4 +1,4 @@
-package Letters;
+package letters;
 
 import java.time.*;
 import java.util.*;
